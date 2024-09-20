@@ -1,2 +1,2 @@
 a,b=map(int,input().split())
-    print(a+baspdoasdoaijdasopdji
+    print(a+b)
